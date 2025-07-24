@@ -946,7 +946,7 @@ overflows table td {
   font-size: 18px;
   padding: 16px 10px 16px 10px;
   border-radius: 5px;
-  color: #4a89dc;
+  color: #8e44ad;
 }
 .header .header__right .navbar__menus {
   padding: 0 0 0 15px;
@@ -955,7 +955,7 @@ overflows table td {
   font-size: 16px;
   padding: 16px 10px 16px 10px;
   border-radius: 5px;
-  color: #4a89dc;
+  color: #8e44ad;
 }
 .header .header__right .navbar__menus .navbar-menu:hover {
   background-color: var(--bg-menu);
