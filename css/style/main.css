@@ -1,5 +1,5 @@
 :root {
-  --main-color: #6200ee;
+  --main-color: #696969;
   --bg-color: #f4f4f4;
   --bg-content-color: #fff;
   --bg-menu: #eceef2;
@@ -946,6 +946,7 @@ overflows table td {
   font-size: 18px;
   padding: 16px 10px 16px 10px;
   border-radius: 5px;
+  color: #4a89dc;
 }
 .header .header__right .navbar__menus {
   padding: 0 0 0 15px;
@@ -954,6 +955,7 @@ overflows table td {
   font-size: 16px;
   padding: 16px 10px 16px 10px;
   border-radius: 5px;
+  color: #4a89dc;
 }
 .header .header__right .navbar__menus .navbar-menu:hover {
   background-color: var(--bg-menu);
